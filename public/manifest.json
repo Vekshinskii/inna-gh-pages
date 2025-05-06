@@ -1,0 +1,16 @@
+{
+  "short_name": "PHOTOGRAPHER - INNA GUSINSKI",
+  "name": "The Best Photographer in Israel - Inna  Gusinski. Portrait of women and girls, Love story,family photography, children's photography throughout Israel and outside the country.",
+
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "floralwhite"
+}
